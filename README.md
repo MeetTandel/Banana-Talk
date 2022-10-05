@@ -2,7 +2,7 @@
 
 Are you a fan of minions? Did you know that the gibberish they say is an actual language. Use the translator to convert your text from English to Minion speak or Banana language.
 
-#### Live Project [https://wz5c0.csb.app/](https://wz5c0.csb.app/)
+#### Live Project [https://banana-talk-meet.netlify.app/](https://banana-talk-meet.netlify.app/)
 
 ## How to Use
 
